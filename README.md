@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sattwik Roy</h1>
 <h3 align="center">A passionate data analytics from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sattwik001&label=Profile%20views&color=0e75b6&style=flat" alt="sattwik001" /> </p>
-
-<p align="left"> <a href="https://twitter.com/https://x.com/sattwikr31590?t=zszjwxpxouc-uxk3b0rmaq&s=08" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/sattwikr31590?t=zszjwxpxouc-uxk3b0rmaq&s=08?logo=twitter&style=for-the-badge" alt="https://x.com/sattwikr31590?t=zszjwxpxouc-uxk3b0rmaq&s=08" /></a> </p>
-
 - 🌱 I’m currently learning **Data analysis**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/sattwik-roy-17ab15282](https://www.linkedin.com/in/sattwik-roy-17ab15282)
